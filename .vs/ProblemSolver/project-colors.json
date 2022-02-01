@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "125a1c36-25d0-41af-8f9f-c0ed698a0da6": {
+      "ProjectGuid": "125a1c36-25d0-41af-8f9f-c0ed698a0da6",
+      "DisplayName": "Runner",
+      "ColorIndex": 0
+    },
+    "ea09b7f6-28ef-48f4-8bc2-1341cc4e730f": {
+      "ProjectGuid": "ea09b7f6-28ef-48f4-8bc2-1341cc4e730f",
+      "DisplayName": "SequenceAnalysis",
+      "ColorIndex": 1
+    },
+    "9998de78-7584-4341-9eb8-ebf40c4df2e5": {
+      "ProjectGuid": "9998de78-7584-4341-9eb8-ebf40c4df2e5",
+      "DisplayName": "SumOfNumbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

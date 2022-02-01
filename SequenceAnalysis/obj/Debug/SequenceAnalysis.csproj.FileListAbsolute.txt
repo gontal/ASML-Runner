@@ -1,0 +1,6 @@
+C:\Users\gontc\source\repos\Runner\SequenceAnalysis\bin\Debug\SequenceAnalysis.dll
+C:\Users\gontc\source\repos\Runner\SequenceAnalysis\bin\Debug\SequenceAnalysis.pdb
+C:\Users\gontc\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\gontc\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.dll
+C:\Users\gontc\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb
+C:\Users\gontc\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\gontc\source\repos\Runner\SumOfNumbers\bin\Debug\SumOfNumbers.dll
+C:\Users\gontc\source\repos\Runner\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\gontc\source\repos\Runner\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gontc\source\repos\Runner\SumOfNumbers\obj\Debug\SumOfNumbers.dll
+C:\Users\gontc\source\repos\Runner\SumOfNumbers\obj\Debug\SumOfNumbers.pdb
+C:\Users\gontc\source\repos\Runner\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.AssemblyReference.cache

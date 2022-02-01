@@ -1,0 +1,13 @@
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\Runner.exe.config
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\Runner.exe
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\Runner.pdb
+C:\Users\gontc\source\repos\Runner\Runner\obj\Debug\Runner.csproj.AssemblyReference.cache
+C:\Users\gontc\source\repos\Runner\Runner\obj\Debug\Runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\gontc\source\repos\Runner\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\gontc\source\repos\Runner\Runner\obj\Debug\Runner.exe
+C:\Users\gontc\source\repos\Runner\Runner\obj\Debug\Runner.pdb
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\SequenceAnalysis.dll
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\SequenceAnalysis.pdb
+C:\Users\gontc\source\repos\Runner\Runner\obj\Debug\Runner.csproj.CopyComplete
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\SumOfNumbers.dll
+C:\Users\gontc\source\repos\Runner\Runner\bin\Debug\SumOfNumbers.pdb
